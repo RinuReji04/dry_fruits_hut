@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: "Segoe Print";
+	color: #00000;
+	text-transform: uppercase;
+} 
+div{
+	padding-left: 10%;
+}
+h1{	
+	
+	font-size: 50px;
+	background-color: c63920;
+	color: white;
+	font-family: arial; 
+	text-align: center;
+}
+h2{
+	font-size: 40px;
+	background-color: 08a031;
+	color: white;
+	font-family: arial; 
+	text-align: center;
+}
+
+.text{
+		position: absolute;
+		z-intex: 5;
+		width: 70%;
+		color: black;
+		text-align: center;
+		border-top-left-radius: 70px: 
+	    border-bottom-right-radius: 20px;
+	    background-color: rgba(0,0,0,0.3)
+	    color:ffffff;
+	    border: 10px inst #fff;
+	}
+.text p{
+		font-family: merienda;
+        color: ffffff;
+        font-size: 20px;
+	}
